@@ -1,4 +1,4 @@
-# ACE — Programming Domain
+# ACE — Programming Domain Easy tasks
 
 This repository is maintained for the submission of tasks assigned under the Programming Domain of ACE.
 
